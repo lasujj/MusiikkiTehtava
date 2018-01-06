@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\bin\Debug\netcoreapp2.0\MusiikkiTehtava.deps.json
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\bin\Debug\netcoreapp2.0\MusiikkiTehtava.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\bin\Debug\netcoreapp2.0\MusiikkiTehtava.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\bin\Debug\netcoreapp2.0\MusiikkiTehtava.dll
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\bin\Debug\netcoreapp2.0\MusiikkiTehtava.pdb
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.dll
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.pdb
+C:\Users\Lenovo\source\repos\MusiikkiTehtava\MusiikkiTehtava\obj\Debug\netcoreapp2.0\MusiikkiTehtava.csprojResolveAssemblyReference.cache
